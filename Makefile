@@ -1,5 +1,5 @@
 init:
-	python3 -m pip install poetry
+	pip install poetry
 	poetry install --no-root
 
 test:
